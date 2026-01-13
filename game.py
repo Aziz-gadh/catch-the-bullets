@@ -1,6 +1,11 @@
 import pygame as pg
 from math import sin, cos, pi
 from random import uniform
+# test
+
+"""
+another test
+"""
 pg.init()
 font = pg.font.SysFont('Arial', 80)
 screen = pg.display.set_mode((800, 600))
